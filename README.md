@@ -1,3 +1,3 @@
-# weather_station_1
+# Weather Station
 
-test
+Description of the project: https://faballemand.github.io/html/projects/weather_station_1.html
