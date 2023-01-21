@@ -14,6 +14,11 @@ More informations: https://faballemand.github.io/html/projects/weather_station_1
 - FS1000A/MX-RM-5V aka the cheapest 433MHz wireless emitter/receiver combo  
 - 16x2 LCD Display  
 
+## Repository
+
+- **arduino:** contains various versions of the Ardiuno code  
+- **pcb:** contains the Ki-CAD project for the PCB  
+
 ## Author
 
 Fabien ALLEMAND
