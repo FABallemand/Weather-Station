@@ -3,7 +3,7 @@
 ## Description
 
 This folder contains all documents needed to build a small weather station with an Arduino Nano.  
-The weather station is able to track time, measure temperature and humidity. it displays everything on a small LCD screen which brightness is adjusted according to ambiant luminosity by using a LDR.
+The weather station is able to track time, measure temperature and humidity. It displays everything on a small LCD screen which brightness is adjusted according to ambiant luminosity by using a LDR.
 
 More informations: https://faballemand.github.io/html/projects/weather_station_1.html
 
